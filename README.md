@@ -8,7 +8,8 @@
 
 ## 🚀 About Me
 
-- 🎓 Currently pursuing BSc (Hons) Cyber Security at SLTC Research University 
+- 🎓 Currently pursuing BSc (Hons) Cyber Security at SLTC Research University
+- 📍 Location From Srilanka 🇱🇰
 - 💻 Passionate about Cybersecurity and Web Desing
 - 🌱 Always learning and exploring new technologies
 - 🔭 Looking to collaborate on web applications and python 
