@@ -1,18 +1,18 @@
 <div align="center">
   
-# 👋 Hello World! I'm [Your Name]
+# 👋 Hello World! I'm [Chanuka Sandun]
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Cybersecurity+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
 
 </div>
 
 ## 🚀 About Me
 
-- 🎓 Currently pursuing Computer Systems and Network Engineering at SLIIT
-- 💻 Passionate about Web Development, Linux Systems, and Cybersecurity
+- 🎓 Currently pursuing BSc (Hons) Cyber Security at SLTC Research University 
+- 💻 Passionate about Cybersecurity and Web Desing
 - 🌱 Always learning and exploring new technologies
 - 🤝 Member of KCD, GDG & AICSL
-- 🔭 Looking to collaborate on web applications and Linux tools
+- 🔭 Looking to collaborate on web applications and python 
 
 ## 🛠️ Tech Stack
 
