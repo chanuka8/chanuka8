@@ -59,7 +59,7 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chanuka12sandun@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/https://https://www.instagram.com/_chanu_00/profilecard/?igsh=MTYxMGVpOW9teW1pZg==/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=+94702200735whatsapp&logoColor=white)](https://wa.me/+94702200735)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+94702200735)
 
 </div>
 
@@ -67,7 +67,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=chanuka8&color=blueviolet)
 
 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
