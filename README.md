@@ -31,11 +31,11 @@
 
 <div align="center">
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaanuka8&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chanuka8&layout=compact&theme=tokyonight)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chanuka8&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
