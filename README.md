@@ -10,7 +10,7 @@
 
 - 🌍 Srilankan
 - 🎓 Currently pursuing BSc (Hons) Cyber Security at SLTC Research University
-- 💻 Passionate about Cybersecurity, ethical hacking, network security and Web Design 
+- 💻 Passionate about Cybersecurity, ethical hacking, network security
 - 🌱 Always learning and exploring new technologies
 - 🔭 Looking to collaborate on Python Programming and web applications
 
