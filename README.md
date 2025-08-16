@@ -1,21 +1,23 @@
 <div align="center">
 
-<h2 style="font-size:32px;">👋 Hey World!</h2>
-<h1 style="font-size:50px;">I'm <strong>Chanuka Sandun Uswaththa </strong></h1>
+# 👋 Hey World!
+## I'm **Chanuka Sandun Uswaththa**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=🔐+Cybersecurity+Enthusiast;🛡️+Ethical+Hacker;🌐+Open+Source+Contributor;🚀+Lifelong+Learner)](https://git.io/typing-svg)
 
 </div>
 
+---
 
 ## 🚀 About Me
 
-- 🌍 Srilankan 🇱🇰
-- 🎓 Currently pursuing BSc (Hons) Cyber Security at SLTC Research University
-- 💻 Passionate about Cybersecurity, ethical hacking, network security
-- 🌱 Always learning and exploring new technologies
-- 🔭 Looking to collaborate on Python Programming and web applications
+- 🌍 Sri Lankan 🇱🇰  
+- 🎓 BSc (Hons) Cyber Security at SLTC Research University  
+- 💻 Passionate about Cybersecurity, Ethical Hacking, Network Security  
+- 🌱 Always learning and exploring new technologies  
+- 🔭 Looking to collaborate on Python Programming and Web Applications  
 
+---
 
 ## 🛠️ Tech Stack
 
@@ -47,168 +49,51 @@
 
 </div>
 
+---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=chanuka8&show_icons=true&theme=tokyonight)](https://github.com/chanuka8?tab=repositories)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chanuka8&layout=compact&theme=tokyonight)](https://github.com/chanuka8?tab=repositories&q=&type=&language=)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=chanuka8&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
-## 🏆 GitHub Achievements
+## 🏆 GitHub Cyber Dashboard
 
 <div align="center">
 
-<style>
-/* Cyberpunk animated table */
-@keyframes neon-glow {
-  0%, 100% { box-shadow: 0 0 5px #0ff, 0 0 10px #0ff, 0 0 20px #0ff; }
-  50% { box-shadow: 0 0 10px #0ff, 0 0 20px #0ff, 0 0 30px #0ff; }
-}
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chanuka8&show_icons=true&theme=dark&hide_border=true)](https://github.com/chanuka8)
 
-@keyframes trophy-glow {
-  0%, 100% { filter: drop-shadow(0 0 5px #ff00ff); }
-  50% { filter: drop-shadow(0 0 20px #ff00ff); }
-}
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chanuka8&layout=compact&theme=dark&hide_border=true)](https://github.com/chanuka8?tab=repositories)
 
-table.cyber-achievements {
-  border-collapse: collapse;
-  width: 90%;
-  max-width: 900px;
-  margin: 0 auto;
-  font-family: 'Courier New', monospace;
-  background: #0d1117;
-  color: #c9d1d9;
-  border-radius: 12px;
-  overflow: hidden;
-  animation: neon-glow 2s infinite alternate;
-}
-
-table.cyber-achievements th, table.cyber-achievements td {
-  padding: 12px 16px;
-  text-align: center;
-}
-
-table.cyber-achievements th {
-  background: #161b22;
-  color: #0ff;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  text-shadow: 0 0 5px #0ff, 0 0 10px #0ff;
-}
-
-table.cyber-achievements tr:nth-child(even) {
-  background: #0d1117;
-}
-
-table.cyber-achievements tr:hover {
-  background: #0ff;
-  color: #0d1117;
-  transition: 0.3s;
-}
-
-table.cyber-achievements img {
-  border-radius: 8px;
-  transition: transform 0.3s, filter 0.3s;
-}
-
-table.cyber-achievements img:hover {
-  transform: scale(1.2);
-  filter: drop-shadow(0 0 15px #0ff);
-}
-
-/* Trophy glowing effect */
-.trophy {
-  animation: trophy-glow 2s infinite alternate;
-  border-radius: 12px;
-}
-</style>
-
-<table class="cyber-achievements">
-  <tr>
-    <th>Category</th>
-    <th>Level</th>
-    <th>Achievement</th>
-  </tr>
-  <tr>
-    <td>🌈 Languages</td>
-    <td>Rainbow User</td>
-    <td>
-      <a href="https://github.com/chanuka8?tab=repositories" target="_blank">
-        <img src="https://img.shields.io/github/languages/top/chanuka8?style=for-the-badge&logo=github&label=Top%20Language">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>⭐ Stars</td>
-    <td>Stargazer</td>
-    <td>
-      <a href="https://github.com/chanuka8?tab=stars" target="_blank">
-        <img src="https://img.shields.io/github/stars/chanuka8?style=for-the-badge&logo=github&label=Stars">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>💻 Commits</td>
-    <td>Ultra Committer</td>
-    <td>
-      <a href="https://github.com/chanuka8" target="_blank">
-        <img src="https://img.shields.io/github/commit-activity/m/chanuka8?style=for-the-badge&logo=github&label=Commits">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>👥 Followers</td>
-    <td>Active User</td>
-    <td>
-      <a href="https://github.com/chanuka8?tab=followers" target="_blank">
-        <img src="https://img.shields.io/github/followers/chanuka8?style=for-the-badge&logo=github&label=Followers">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>📚 Repositories</td>
-    <td>High Repo Creator</td>
-    <td>
-      <a href="https://github.com/chanuka8?tab=repositories" target="_blank">
-        <img src="https://img.shields.io/github/repos/chanuka8?style=for-the-badge&logo=github&label=Repositories">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>💼 Experience</td>
-    <td>Intermediate Dev</td>
-    <td>
-      <a href="https://github.com/chanuka8" target="_blank">
-        <img class="trophy" src="https://github-profile-trophy.vercel.app/?username=chanuka8&theme=radical&row=1&column=1">
-      </a>
-    </td>
-  </tr>
-</table>
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=chanuka8&theme=darkhub&row=1&column=6&margin-w=10&margin-h=10)](https://github.com/chanuka8)
 
 </div>
+
+---
+
+### ⚡ Quick Achievement Links
+
+<div align="center">
+
+[![Commits](https://img.shields.io/github/commit-activity/m/chanuka8?style=for-the-badge&logo=github&label=Commits)](https://github.com/chanuka8)  
+[![Repositories](https://img.shields.io/github/repos/chanuka8?style=for-the-badge&logo=github&label=Repositories)](https://github.com/chanuka8?tab=repositories)  
+[![Stars](https://img.shields.io/github/stars/chanuka8?style=for-the-badge&logo=github&label=Stars)](https://github.com/chanuka8?tab=stars)  
+[![Followers](https://img.shields.io/github/followers/chanuka8?style=for-the-badge&logo=github&label=Followers)](https://github.com/chanuka8?tab=followers)  
+[![Top Language](https://img.shields.io/github/languages/top/chanuka8?style=for-the-badge&logo=github&label=Top%20Language)](https://github.com/chanuka8?tab=repositories)
+
+</div>
+
+---
 
 ## 📫 Connect With Me
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chanuka12sandun@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chanuka__sandun/profilecard/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chanuka12sandun@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chanuka__sandun/profilecard/)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+94702200735)
 
 </div>
 
 ---
 
-
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=chanuka8&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=chanuka8&color=blueviolet&style=for-the-badge)  
 ![Unique Visitors](https://visitor-badge.laobi.icu/badge?page_id=chanuka8&style=for-the-badge&left_color=green&right_color=blue)
 
 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
