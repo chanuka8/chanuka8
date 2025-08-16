@@ -1,6 +1,6 @@
 <!-- Watermark Background -->
 <div style="position: relative; text-align: center;">
-  <img src="Cybersecurity Professional Chanuka Sandun.png" 
+  <img src="https://imgur.com/a/AGcX5pd" 
        alt="Hacker Banner" 
        style="width:100%; opacity:0.1; position:absolute; top:0; left:0; z-index:-1;" />
 
