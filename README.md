@@ -64,34 +64,116 @@
 
 <div align="center">
 
-<!-- Commits -->
-[![Commits](https://img.shields.io/github/commit-activity/m/chanuka8?style=for-the-badge&logo=github&label=Commits)](https://github.com/chanuka8?tab=overview)
+<style>
+/* Table styling for cyberpunk effect */
+table.cyber-achievements {
+  border-collapse: collapse;
+  width: 90%;
+  max-width: 800px;
+  margin: 0 auto;
+  font-family: 'Courier New', monospace;
+  background: #0d1117;
+  color: #c9d1d9;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 0 20px #0ff;
+}
 
-<!-- Repositories -->
-[![Repositories](https://img.shields.io/github/repos/chanuka8?style=for-the-badge&logo=github&label=Repositories)](https://github.com/chanuka8?tab=repositories)
+table.cyber-achievements th, table.cyber-achievements td {
+  padding: 12px 16px;
+  text-align: center;
+}
 
-<!-- Stars -->
-[![Stars](https://img.shields.io/github/stars/chanuka8?style=for-the-badge&logo=github&label=Stars)](https://github.com/chanuka8?tab=stars)
+table.cyber-achievements th {
+  background: #161b22;
+  color: #0ff;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
 
-<!-- Followers -->
-[![Followers](https://img.shields.io/github/followers/chanuka8?style=for-the-badge&logo=github&label=Followers)](https://github.com/chanuka8?tab=followers)
+table.cyber-achievements tr:nth-child(even) {
+  background: #0d1117;
+}
 
-<!-- Top Language -->
-[![Top Language](https://img.shields.io/github/languages/top/chanuka8?style=for-the-badge&logo=github&label=Top%20Language)](https://github.com/chanuka8?tab=repositories)
+table.cyber-achievements tr:hover {
+  background: #0ff;
+  color: #0d1117;
+  transition: 0.3s;
+}
 
-<!-- Top Repository -->
-[![Top Repo](https://img.shields.io/badge/Top_Repo-View-blue?style=for-the-badge&logo=github)](https://github.com/chanuka8/YourTopRepoName)
+table.cyber-achievements img {
+  border-radius: 8px;
+  transition: transform 0.3s;
+}
+
+table.cyber-achievements img:hover {
+  transform: scale(1.1);
+}
+</style>
+
+<table class="cyber-achievements">
+  <tr>
+    <th>Category</th>
+    <th>Level</th>
+    <th>Achievement</th>
+  </tr>
+  <tr>
+    <td>🌈 Languages</td>
+    <td>Rainbow User</td>
+    <td>
+      <a href="https://github.com/chanuka8?tab=repositories" target="_blank">
+        <img src="https://img.shields.io/github/languages/top/chanuka8?style=for-the-badge&logo=github&label=Top%20Language">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>⭐ Stars</td>
+    <td>Stargazer</td>
+    <td>
+      <a href="https://github.com/chanuka8?tab=stars" target="_blank">
+        <img src="https://img.shields.io/github/stars/chanuka8?style=for-the-badge&logo=github&label=Stars">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>💻 Commits</td>
+    <td>Ultra Committer</td>
+    <td>
+      <a href="https://github.com/chanuka8" target="_blank">
+        <img src="https://img.shields.io/github/commit-activity/m/chanuka8?style=for-the-badge&logo=github&label=Commits">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>👥 Followers</td>
+    <td>Active User</td>
+    <td>
+      <a href="https://github.com/chanuka8?tab=followers" target="_blank">
+        <img src="https://img.shields.io/github/followers/chanuka8?style=for-the-badge&logo=github&label=Followers">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>📚 Repositories</td>
+    <td>High Repo Creator</td>
+    <td>
+      <a href="https://github.com/chanuka8?tab=repositories" target="_blank">
+        <img src="https://img.shields.io/github/repos/chanuka8?style=for-the-badge&logo=github&label=Repositories">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>💼 Experience</td>
+    <td>Intermediate Dev</td>
+    <td>
+      <a href="https://github.com/chanuka8" target="_blank">
+        <img src="https://github-profile-trophy.vercel.app/?username=chanuka8&theme=radical&row=1&column=1">
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
-
----
-
-### ✅ Optional: GitHub Trophies (Dynamic, Fun Visuals)
-<div align="center">
-[![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=chanuka8&theme=tokyonight&row=1&column=5)](https://github.com/chanuka8)
-</div>
-
-
 
 ## 📫 Connect With Me
 
