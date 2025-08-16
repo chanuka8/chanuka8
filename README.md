@@ -1,13 +1,9 @@
-<!-- Watermark Background -->
-<div style="position: relative; text-align: center;">
-  <img <img src="https://i.imgur.com/fWDK0Dt.png" 
-     alt="Hacker Banner" 
-     style="width:100%; opacity:0.1; position:absolute; top:0; left:0; z-index:-1;" />
+<div align="center">
   
-  <div align="center" style="position: relative; z-index: 1;">
-    # 👋 Hey World! I'm Chanuka Sandun
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Cybersecurity+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
-  </div>
+# 👋 Hey World! I'm Chanuka Sandun
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Cybersecurity+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
+
 </div>
 
 ## 🚀 About Me
@@ -20,120 +16,16 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center" style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: center;">
+<div align="center">
 
-  <!-- Python Badge with Hover Preview -->
-  <div class="tooltip">
-    <a href="https://github.com/chanuka8?tab=repositories&q=&type=&language=Python" target="_blank">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    </a>
-    <span class="tooltiptext">
-      <b>Top Python Repos:</b><br>
-      • CyberSecurity-Tools<br>
-      • Python-Scripts<br>
-      • WebScraper
-    </span>
-  </div>
-
-  <!-- HTML Badge with Hover Preview -->
-  <div class="tooltip">
-    <a href="https://github.com/chanuka8?tab=repositories&q=&type=&language=HTML" target="_blank">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-    </a>
-    <span class="tooltiptext">
-      <b>Top HTML Repos:</b><br>
-      • PortfolioWebsite<br>
-      • LandingPage<br>
-      • WebTemplates
-    </span>
-  </div>
-
-  <!-- CSS Badge -->
-  <div class="tooltip">
-    <a href="https://github.com/chanuka8?tab=repositories&q=&type=&language=CSS" target="_blank">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-    </a>
-    <span class="tooltiptext">
-      <b>Top CSS Repos:</b><br>
-      • PortfolioWebsite<br>
-      • WebAnimations<br>
-      • StyledComponents
-    </span>
-  </div>
-
-  <!-- TypeScript Badge -->
-  <div class="tooltip">
-    <a href="https://github.com/chanuka8?tab=repositories&q=&type=&language=TypeScript" target="_blank">
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-    </a>
-    <span class="tooltiptext">
-      <b>Top TypeScript Repos:</b><br>
-      • WebAppTS<br>
-      • ReactProjects<br>
-      • APIClients
-    </span>
-  </div>
-
-  <!-- C++ Badge -->
-  <div class="tooltip">
-    <a href="https://github.com/chanuka8?tab=repositories&q=&type=&language=C%2B%2B" target="_blank">
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-    </a>
-    <span class="tooltiptext">
-      <b>Top C++ Repos:</b><br>
-      • GameEngine<br>
-      • Algorithms<br>
-      • DataStructures
-    </span>
-  </div>
-
-  <!-- PHP Badge -->
-  <div class="tooltip">
-    <a href="https://github.com/chanuka8?tab=repositories&q=&type=&language=PHP" target="_blank">
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-    </a>
-    <span class="tooltiptext">
-      <b>Top PHP Repos:</b><br>
-      • CMSProjects<br>
-      • PHPWebApps<br>
-      • BackendScripts
-    </span>
-  </div>
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=&type=&language=Python)
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=&type=&language=HTML)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=&type=&language=CSS)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=&type=&language=TypeScript)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=&type=&language=C%2B%2B)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=&type=&language=PHP)
 
 </div>
-
-<!-- Tooltip CSS -->
-<style>
-.tooltip {
-  position: relative;
-  display: inline-block;
-  cursor: pointer;
-}
-
-.tooltip .tooltiptext {
-  visibility: hidden;
-  width: 200px;
-  background-color: #111;
-  color: #fff;
-  text-align: left;
-  border-radius: 6px;
-  padding: 10px;
-  position: absolute;
-  z-index: 10;
-  bottom: 125%;
-  left: 50%;
-  transform: translateX(-50%);
-  opacity: 0;
-  transition: opacity 0.3s;
-  font-size: 12px;
-  line-height: 1.4;
-}
-
-.tooltip:hover .tooltiptext {
-  visibility: visible;
-  opacity: 1;
-}
-</style>
 
 ## 📊 GitHub Stats
 
@@ -144,6 +36,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chanuka8&layout=compact&theme=tokyonight)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=chanuka8&theme=tokyonight)](https://git.io/streak-stats)
+
 
 </div>
 
