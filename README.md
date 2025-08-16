@@ -69,7 +69,8 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=chanuka8&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=chanuka8&color=blueviolet&style=for-the-badge)
+![Unique Visitors](https://visitor-badge.laobi.icu/badge?page_id=chanuka8&style=for-the-badge&left_color=green&right_color=blue)
 
 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
