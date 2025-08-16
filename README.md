@@ -1,6 +1,7 @@
 <div align="center">
 
-# 👋 Hey World! I'm **Chanuka Sandun**  
+# 👋 Hey World!
+I'm **Chanuka Sandun Uswaththa**  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=🔐+Cybersecurity+Enthusiast;🛡️+Ethical+Hacker;🌐+Open+Source+Contributor;🚀+Lifelong+Learner)](https://git.io/typing-svg)
 
