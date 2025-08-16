@@ -1,9 +1,9 @@
 <!-- Watermark Background -->
 <div style="position: relative; text-align: center;">
-  <img src="https://i.imgur.com/<imageID>.png" 
-       alt="Hacker Banner" 
-       style="width:100%; opacity:0.1; position:absolute; top:0; left:0; z-index:-1;" />
-
+  <img <img src="https://i.imgur.com/fWDK0Dt.png" 
+     alt="Hacker Banner" 
+     style="width:100%; opacity:0.1; position:absolute; top:0; left:0; z-index:-1;" />
+  
   <div align="center" style="position: relative; z-index: 1;">
     # 👋 Hey World! I'm Chanuka Sandun
     [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Cybersecurity+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
