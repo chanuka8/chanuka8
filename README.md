@@ -1,23 +1,21 @@
 <div align="center">
 
 <h2 style="font-size:32px;">👋 Hey World!</h2>
-<h1 style="font-size:50px;">I'm <strong>Chanuka Sandun Uswaththa</strong></h1>
+<h1 style="font-size:50px;">I'm <strong>Chanuka Sandun Uswaththa </strong></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=🔐+Cybersecurity+Enthusiast;🛡️+Ethical+Hacker;🌐+Open+Source+Contributor;🚀+Lifelong+Learner)](https://git.io/typing-svg)
 
 </div>
 
----
 
 ## 🚀 About Me
 
-- 🌍 Sri Lankan 🇱🇰  
-- 🎓 BSc (Hons) Cyber Security at SLTC Research University  
-- 💻 Passionate about Cybersecurity, Ethical Hacking, Network Security  
-- 🌱 Always learning & exploring new technologies  
-- 🔭 Looking to collaborate on Python & Web Applications  
+- 🌍 Srilankan 🇱🇰
+- 🎓 Currently pursuing BSc (Hons) Cyber Security at SLTC Research University
+- 💻 Passionate about Cybersecurity, ethical hacking, network security
+- 🌱 Always learning and exploring new technologies
+- 🔭 Looking to collaborate on Python Programming and web applications
 
----
 
 ## 🛠️ Tech Stack
 
@@ -49,31 +47,51 @@
 
 </div>
 
----
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chanuka8&show_icons=true&theme=tokyonight)](https://github.com/chanuka8?tab=repositories)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=chanuka8&show_icons=true&theme=tokyonight)](https://github.com/chanuka8?tab=repositories)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chanuka8&layout=compact&theme=tokyonight)](https://github.com/chanuka8?tab=repositories)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chanuka8&layout=compact&theme=tokyonight)](https://github.com/chanuka8?tab=repositories&q=&type=&language=)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=chanuka8&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
----
-
 ## 🏆 GitHub Achievements
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=chanuka8&theme=tokyonight&row=1&column=5&margin-w=5&margin-h=5)](https://github.com/chanuka8)
+<!-- Commits -->
+[![Commits](https://img.shields.io/github/commit-activity/m/chanuka8?style=for-the-badge&logo=github&label=Commits)](https://github.com/chanuka8?tab=overview)
+
+<!-- Repositories -->
+[![Repositories](https://img.shields.io/github/repos/chanuka8?style=for-the-badge&logo=github&label=Repositories)](https://github.com/chanuka8?tab=repositories)
+
+<!-- Stars -->
+[![Stars](https://img.shields.io/github/stars/chanuka8?style=for-the-badge&logo=github&label=Stars)](https://github.com/chanuka8?tab=stars)
+
+<!-- Followers -->
+[![Followers](https://img.shields.io/github/followers/chanuka8?style=for-the-badge&logo=github&label=Followers)](https://github.com/chanuka8?tab=followers)
+
+<!-- Top Language -->
+[![Top Language](https://img.shields.io/github/languages/top/chanuka8?style=for-the-badge&logo=github&label=Top%20Language)](https://github.com/chanuka8?tab=repositories)
+
+<!-- Top Repository -->
+[![Top Repo](https://img.shields.io/badge/Top_Repo-View-blue?style=for-the-badge&logo=github)](https://github.com/chanuka8/YourTopRepoName)
 
 </div>
 
 ---
+
+### ✅ Optional: GitHub Trophies (Dynamic, Fun Visuals)
+<div align="center">
+[![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=chanuka8&theme=tokyonight&row=1&column=5)](https://github.com/chanuka8)
+</div>
+
+
 
 ## 📫 Connect With Me
 
@@ -86,6 +104,7 @@
 </div>
 
 ---
+
 
 <div align="center">
 
