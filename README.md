@@ -1,10 +1,11 @@
 <div align="center">
-  
-# 👋 Hey World! I'm Chanuka Sandun
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Cybersecurity+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
+# 👋 Hey World! I'm **Chanuka Sandun**  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=🔐+Cybersecurity+Enthusiast;🛡️+Ethical+Hacker;🌐+Open+Source+Contributor;🚀+Lifelong+Learner)](https://git.io/typing-svg)
 
 </div>
+
 
 ## 🚀 About Me
 
@@ -13,6 +14,7 @@
 - 💻 Passionate about Cybersecurity, ethical hacking, network security
 - 🌱 Always learning and exploring new technologies
 - 🔭 Looking to collaborate on Python Programming and web applications
+
 
 ## 🛠️ Tech Stack
 
@@ -44,6 +46,7 @@
 
 </div>
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -55,6 +58,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=chanuka8&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
+
 
 ## 🏆 GitHub Achievements
 
@@ -71,6 +75,7 @@
 
 </div>
 
+
 ## 📫 Connect With Me
 
 <div align="center">
@@ -82,6 +87,7 @@
 </div>
 
 ---
+
 
 <div align="center">
 
