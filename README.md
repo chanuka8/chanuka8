@@ -69,11 +69,11 @@
 
 <div align="center">
 
-[![Commits](https://img.shields.io/github/commit-activity/m/chanuka8?style=for-the-badge&logo=github&label=Commits)](https://github.com/chanuka8)  
-[![Repositories](https://img.shields.io/github/repos/chanuka8?style=for-the-badge&logo=github&label=Repositories)](https://github.com/chanuka8?tab=repositories)  
-[![Stars](https://img.shields.io/github/stars/chanuka8?style=for-the-badge&logo=github&label=Stars)](https://github.com/chanuka8?tab=stars)  
-[![Followers](https://img.shields.io/github/followers/chanuka8?style=for-the-badge&logo=github&label=Followers)](https://github.com/chanuka8?tab=followers)  
-[![Top Language](https://img.shields.io/github/languages/top/chanuka8?style=for-the-badge&logo=github&label=Top%20Language)](https://github.com/chanuka8?tab=repositories)
+[![💻 Commits](https://img.shields.io/github/commit-activity/m/chanuka8?style=for-the-badge&logo=github&label=Commits)](https://github.com/chanuka8)  
+[![📚 Repositories](https://img.shields.io/github/repos/chanuka8?style=for-the-badge&logo=github&label=Repositories)](https://github.com/chanuka8?tab=repositories)  
+[![⭐ Stars](https://img.shields.io/github/stars/chanuka8?style=for-the-badge&logo=github&label=Stars)](https://github.com/chanuka8?tab=stars)  
+[![👥 Followers](https://img.shields.io/github/followers/chanuka8?style=for-the-badge&logo=github&label=Followers)](https://github.com/chanuka8?tab=followers)  
+[![🌈 Top Language](https://img.shields.io/github/languages/top/chanuka8?style=for-the-badge&logo=github&label=Top%20Language)](https://github.com/chanuka8?tab=repositories)
 
 </div>
 
