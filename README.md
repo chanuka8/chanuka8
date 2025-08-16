@@ -73,7 +73,8 @@
 [![📚 Repositories](https://img.shields.io/github/repos/chanuka8?style=for-the-badge&logo=github&label=Repositories)](https://github.com/chanuka8?tab=repositories)  
 [![⭐ Stars](https://img.shields.io/github/stars/chanuka8?style=for-the-badge&logo=github&label=Stars)](https://github.com/chanuka8?tab=stars)  
 [![👥 Followers](https://img.shields.io/github/followers/chanuka8?style=for-the-badge&logo=github&label=Followers)](https://github.com/chanuka8?tab=followers)  
-[![🌈 Top Language](https://img.shields.io/github/languages/top/chanuka8?style=for-the-badge&logo=github&label=Top%20Language)](https://github.com/chanuka8?tab=repositories)
+[![🌈 Top Language](https://img.shields.io/github/languages/top/chanuka8?style=for-the-badge&logo=github&label=Top%20Language)](https://github.com/chanuka8?tab=repositories)  
+[![🏆 GitHub Trophy](https://github-profile-trophy.vercel.app/?username=chanuka8&theme=darkhub&row=1&column=6&margin-w=10&margin-h=10)](https://github.com/chanuka8)
 
 </div>
 
