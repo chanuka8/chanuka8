@@ -65,18 +65,28 @@
 <div align="center">
 
 <style>
-/* Table styling for cyberpunk effect */
+/* Cyberpunk animated table */
+@keyframes neon-glow {
+  0%, 100% { box-shadow: 0 0 5px #0ff, 0 0 10px #0ff, 0 0 20px #0ff; }
+  50% { box-shadow: 0 0 10px #0ff, 0 0 20px #0ff, 0 0 30px #0ff; }
+}
+
+@keyframes trophy-glow {
+  0%, 100% { filter: drop-shadow(0 0 5px #ff00ff); }
+  50% { filter: drop-shadow(0 0 20px #ff00ff); }
+}
+
 table.cyber-achievements {
   border-collapse: collapse;
   width: 90%;
-  max-width: 800px;
+  max-width: 900px;
   margin: 0 auto;
   font-family: 'Courier New', monospace;
   background: #0d1117;
   color: #c9d1d9;
   border-radius: 12px;
   overflow: hidden;
-  box-shadow: 0 0 20px #0ff;
+  animation: neon-glow 2s infinite alternate;
 }
 
 table.cyber-achievements th, table.cyber-achievements td {
@@ -89,6 +99,7 @@ table.cyber-achievements th {
   color: #0ff;
   text-transform: uppercase;
   letter-spacing: 1px;
+  text-shadow: 0 0 5px #0ff, 0 0 10px #0ff;
 }
 
 table.cyber-achievements tr:nth-child(even) {
@@ -103,11 +114,18 @@ table.cyber-achievements tr:hover {
 
 table.cyber-achievements img {
   border-radius: 8px;
-  transition: transform 0.3s;
+  transition: transform 0.3s, filter 0.3s;
 }
 
 table.cyber-achievements img:hover {
-  transform: scale(1.1);
+  transform: scale(1.2);
+  filter: drop-shadow(0 0 15px #0ff);
+}
+
+/* Trophy glowing effect */
+.trophy {
+  animation: trophy-glow 2s infinite alternate;
+  border-radius: 12px;
 }
 </style>
 
@@ -167,7 +185,7 @@ table.cyber-achievements img:hover {
     <td>Intermediate Dev</td>
     <td>
       <a href="https://github.com/chanuka8" target="_blank">
-        <img src="https://github-profile-trophy.vercel.app/?username=chanuka8&theme=radical&row=1&column=1">
+        <img class="trophy" src="https://github-profile-trophy.vercel.app/?username=chanuka8&theme=radical&row=1&column=1">
       </a>
     </td>
   </tr>
