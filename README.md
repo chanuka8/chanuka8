@@ -1,21 +1,23 @@
 <div align="center">
 
 <h2 style="font-size:32px;">👋 Hey World!</h2>
-<h1 style="font-size:50px;">I'm <strong>Chanuka Sandun Uswaththa </strong></h1>
+<h1 style="font-size:50px;">I'm <strong>Chanuka Sandun Uswaththa</strong></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=🔐+Cybersecurity+Enthusiast;🛡️+Ethical+Hacker;🌐+Open+Source+Contributor;🚀+Lifelong+Learner)](https://git.io/typing-svg)
 
 </div>
 
+---
 
 ## 🚀 About Me
 
-- 🌍 Srilankan 🇱🇰
-- 🎓 Currently pursuing BSc (Hons) Cyber Security at SLTC Research University
-- 💻 Passionate about Cybersecurity, ethical hacking, network security
-- 🌱 Always learning and exploring new technologies
-- 🔭 Looking to collaborate on Python Programming and web applications
+- 🌍 Sri Lankan 🇱🇰  
+- 🎓 BSc (Hons) Cyber Security at SLTC Research University  
+- 💻 Passionate about Cybersecurity, Ethical Hacking, Network Security  
+- 🌱 Always learning & exploring new technologies  
+- 🔭 Looking to collaborate on Python & Web Applications  
 
+---
 
 ## 🛠️ Tech Stack
 
@@ -47,35 +49,31 @@
 
 </div>
 
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=chanuka8&show_icons=true&theme=tokyonight)](https://github.com/chanuka8?tab=repositories)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chanuka8&show_icons=true&theme=tokyonight)](https://github.com/chanuka8?tab=repositories)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chanuka8&layout=compact&theme=tokyonight)](https://github.com/chanuka8?tab=repositories&q=&type=&language=)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chanuka8&layout=compact&theme=tokyonight)](https://github.com/chanuka8?tab=repositories)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=chanuka8&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
+---
 
 ## 🏆 GitHub Achievements
 
 <div align="center">
 
-| Category | Level | Points |
-|----------|--------|---------|
-| 🌈 Languages | Rainbow User | 14 pts |
-| ⭐ Stars | Stargazer | 379 pts |
-| 💻 Commits | Ultra Committer | 762 pts |
-| 👥 Followers | Active User | 83 pts |
-| 📚 Repositories | High Repo Creator | 29 pts |
-| 💼 Experience | Intermediate Dev | 11 pts |
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=chanuka8&theme=tokyonight&row=1&column=5&margin-w=5&margin-h=5)](https://github.com/chanuka8)
 
 </div>
 
+---
 
 ## 📫 Connect With Me
 
@@ -88,7 +86,6 @@
 </div>
 
 ---
-
 
 <div align="center">
 
