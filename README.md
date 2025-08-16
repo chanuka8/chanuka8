@@ -31,12 +31,11 @@
 
 <div align="center">
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=chanuka8&show_icons=true&theme=tokyonight)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=chanuka8&show_icons=true&theme=tokyonight)](https://github.com/chanuka8?tab=repositories)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chanuka8&layout=compact&theme=tokyonight)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chanuka8&layout=compact&theme=tokyonight)](https://github.com/chanuka8?tab=repositories&q=&type=&language=)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=chanuka8&theme=tokyonight)](https://git.io/streak-stats)
-
 
 </div>
 
