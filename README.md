@@ -19,6 +19,8 @@
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+  
 ### 🐍 Programming & Scripting 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/search?q=user%3Achanuka8+language%3APython&type=repositories) 
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/search?q=user%3Achanuka8+language%3AC%2B%2B&type=repositories) 
@@ -42,6 +44,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+
 </div>
 
 
