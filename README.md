@@ -90,14 +90,14 @@
 
 ---
 
-
 <div align="center">
 
-  🔐 - *"Breaking to learn, defending to protect."*
+<h3>🔐 <em>"Breaking to learn, defending to protect."</em></h3>
 
-<br> <!-- This creates a nice vertical gap -->
-  
+<br> <!-- adds space -->
+
 ![Profile Views](https://komarev.com/ghpvc/?username=chanuka8&color=blueviolet&style=for-the-badge)
 ![Unique Visitors](https://visitor-badge.laobi.icu/badge?page_id=chanuka8&style=for-the-badge&left_color=green&right_color=blue)
 
 </div>
+
