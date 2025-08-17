@@ -93,9 +93,10 @@
 
 <div align="center">
 
+  🔐 - *"Breaking to learn, defending to protect."*
+
+  
 ![Profile Views](https://komarev.com/ghpvc/?username=chanuka8&color=blueviolet&style=for-the-badge)
 ![Unique Visitors](https://visitor-badge.laobi.icu/badge?page_id=chanuka8&style=for-the-badge&left_color=green&right_color=blue)
-
-*"Breaking to learn, defending to protect."*
 
 </div>
