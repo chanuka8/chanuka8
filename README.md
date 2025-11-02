@@ -1,35 +1,35 @@
 <div align="center">
 
-<h2 style="font-size:32px;">👋 Hey World!</h2>
-<h1 style="font-size:50px;">I'm <strong>Chanuka Sandun Uswaththa </strong></h1>
+<h2>👋 Hey World!</h2>
+<h1>I'm <strong>Chanuka Sandun Uswaththa</strong></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=🔐+Cybersecurity+Enthusiast;🛡️+Ethical+Hacker;🌐+Open+Source+Contributor;🚀+Lifelong+Learner)](https://git.io/typing-svg)
-
 
 </div>
 
 ## 🚀 About Me
 
-- 🌍 Srilankan 🇱🇰
-- 🎓 Currently pursuing BSc (Hons) Cyber Security at SLTC Research University
-- 💻 Passionate about Cybersecurity, ethical hacking, network security
-- 🌱 Always learning and exploring new technologies
-- 🔭 Looking to collaborate on Python Programming and web applications
+> 🌍 **Srilankan** 🇱🇰  
+> 🎓 **BSc (Hons) Cyber Security** at SLTC Research University  
+> 💻 **Passionate about Cybersecurity**, ethical hacking, network security  
+> 🌱 **Always learning** and exploring new technologies  
+> 🔭 **Looking to collaborate** on Python Programming and web applications
 
 ## 📜 Certifications & Achievements
 
 <div align="center">
 
-### 🏆 Dynamic Badges
+### 🏆 Live Progress Badge
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/chanu00.png)](https://tryhackme.com/p/chanuka8)
+
+<br>
 
 ### 📜 Professional Certifications
 [![ISC2 CC](https://img.shields.io/badge/ISC2-CC_Certified-FF6B00?style=for-the-badge&logo=isc2&logoColor=white)](https://isc2.obrizum.io/org/cc/certificate)
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B_SY0-601-4D4DFF?style=for-the-badge&logo=compTIA&logoColor=white)](https://www.credly.com/users/chanuka-sandun/badges)
-[![Cisco](https://img.shields.io/badge/Cisco-CCNA_CyberOps-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/users/chanuka-sandun/badges)
+[![Cisco CyberOps](https://img.shields.io/badge/Cisco-CCNA_CyberOps-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/users/chanuka-sandun/badges)
 
 </div>
-
 
 ## 🛠️ Tech Stack
 
@@ -42,7 +42,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/chanuka8?tab=repositories&language=typescript)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/chanuka8?tab=repositories&language=javascript)
 
----
+<br>
 
 ### 🌐 Web Technologies  
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/chanuka8?tab=repositories&language=html)
@@ -51,7 +51,7 @@
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/search?q=user%3Achanuka8+node&type=repositories)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://github.com/search?q=user%3Achanuka8+express&type=repositories)
 
----
+<br>
 
 ### 🔒 Cybersecurity & Tools  
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://github.com/search?q=user%3Achanuka8+kali+OR+security+OR+cybersecurity&type=repositories)
@@ -60,7 +60,7 @@
 [![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)](https://github.com/search?q=user%3Achanuka8+burp+OR+web+security&type=repositories)
 [![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white)](https://github.com/search?q=user%3Achanuka8+nmap+OR+scanning&type=repositories)
 
----
+<br>
 
 ### ☁️ Cloud & DevOps  
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/search?q=user%3Achanuka8+aws+OR+cloud&type=repositories)
@@ -68,19 +68,27 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/search?q=user%3Achanuka8+git&type=repositories)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/search?q=user%3Achanuka8+linux+OR+ubuntu&type=repositories)
 
----
-
 </div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=chanuka8&show_icons=true&theme=radical)](https://github.com/chanuka8?tab=repositories)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chanuka8&layout=compact&theme=radical)](https://github.com/chanuka8?tab=repositories&q=&type=&language=)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=chanuka8&theme=radical)](https://git.io/streak-stats)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=chanuka8&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanuka8&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com?user=chanuka8&theme=radical" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -100,7 +108,7 @@
 
 <div align="center">
 
-<h3>💀 <em>"Hack ethically. Secure globally."</em></h3>
+### 💀 *"Hack ethically. Secure globally."*
 
 <br>
 
