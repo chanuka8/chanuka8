@@ -19,88 +19,67 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
----
-
-### 🐍 Programming & Scripting
 <marquee behavior="scroll" direction="left" scrollamount="6">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
-</marquee>
+### 🔍 Network Scanner Module  
+[![Python](https://img.shields.io/badge/Python-3.10-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Nmap](https://img.shields.io/badge/Nmap-Network_Scanner-004B87?logo=nmap&logoColor=white)](https://nmap.org/)
+[![AsyncIO](https://img.shields.io/badge/AsyncIO-Concurrency-306998?logo=python&logoColor=white)](https://docs.python.org/3/library/asyncio.html)
 
 ---
 
-### 🌐 Web Development
-<marquee behavior="scroll" direction="right" scrollamount="6">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-</marquee>
+### 🧠 Threat Intelligence Module  
+[![Shodan](https://img.shields.io/badge/Shodan-API-DD0000?logo=shodan&logoColor=white)](https://www.shodan.io/)
+[![VirusTotal](https://img.shields.io/badge/VirusTotal-Threat_API-0057e7?logo=virustotal&logoColor=white)](https://www.virustotal.com/)
+[![AbuseIPDB](https://img.shields.io/badge/AbuseIPDB-Intel_Lookup-5865F2?logo=shield&logoColor=white)](https://www.abuseipdb.com/)
+[![CIRCL CVE](https://img.shields.io/badge/CIRCL-CVE_API-DAA520?logo=cve&logoColor=white)](https://cve.circl.lu/)
 
 ---
 
-### 🔒 Cybersecurity & Tools
-<marquee behavior="scroll" direction="left" scrollamount="6">
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2E77BC?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge&logo=shodan&logoColor=white)
-![Hashcat](https://img.shields.io/badge/Hashcat-9B59B6?style=for-the-badge&logoColor=white)
-![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-3DDC84?style=for-the-badge&logoColor=white)
-
-</marquee>
+### 🌍 GeoIP & Mapping Module  
+[![Folium](https://img.shields.io/badge/Folium-Interactive_Map-2ECC71?logo=python&logoColor=white)](https://python-visualization.github.io/folium/)
+[![GeoLite2](https://img.shields.io/badge/GeoLite2-IP_GeoDB-8A2BE2?logo=maxmind&logoColor=white)](https://dev.maxmind.com/geoip/geolite2-free-geolocation-data)
+[![IPinfo](https://img.shields.io/badge/IPinfo-Lookup_API-0A66C2?logo=ipfs&logoColor=white)](https://ipinfo.io/)
 
 ---
 
-### ☁️ Cloud, DevOps & OS
-<marquee behavior="scroll" direction="right" scrollamount="6">
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</marquee>
+### 🧾 Report Generator Module  
+[![Python-docx](https://img.shields.io/badge/python--docx-Word_Reports-2B579A?logo=microsoftword&logoColor=white)](https://python-docx.readthedocs.io/)
+[![Plotly](https://img.shields.io/badge/Plotly-Dashboards-1A1A1A?logo=plotly&logoColor=white)](https://plotly.com/python/)
+[![HTML Export](https://img.shields.io/badge/HTML_Report-Export-E44D26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-Data_Charts-11557C?logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 
 ---
 
-### 🤖 AI, Data & Automation
-<marquee behavior="scroll" direction="left" scrollamount="6">
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-
-</marquee>
+### 📧 Email & AES Encryption Module  
+[![smtplib](https://img.shields.io/badge/SMTP-Automated_Mail-D44638?logo=gmail&logoColor=white)](https://docs.python.org/3/library/smtplib.html)
+[![cryptography](https://img.shields.io/badge/AES-Encrypted_Reports-004B49?logo=lock&logoColor=white)](https://cryptography.io/)
+[![Gmail API](https://img.shields.io/badge/Gmail-Integration-EA4335?logo=gmail&logoColor=white)](https://developers.google.com/gmail/api)
 
 ---
 
-</div>
+### 💻 GUI Module  
+[![Tkinter](https://img.shields.io/badge/Tkinter-Desktop_UI-4B8BBE?logo=python&logoColor=white)](https://docs.python.org/3/library/tkinter.html)
+[![ProgressBar](https://img.shields.io/badge/Progress-Bar-198754?logo=python&logoColor=white)](https://pypi.org/project/tqdm/)
+[![Logging](https://img.shields.io/badge/Scan_Logs-Live-0E76A8?logo=logging&logoColor=white)](https://docs.python.org/3/library/logging.html)
+
+---
+
+### 🐳 Docker & CI/CD Deployment  
+[![Docker](https://img.shields.io/badge/Docker-Container-0db7ed?logo=docker&logoColor=white)](https://www.docker.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-181717?logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![Render](https://img.shields.io/badge/Render-Cloud_Hosting-6C63FF?logo=render&logoColor=white)](https://render.com/)
+[![pytest-cov](https://img.shields.io/badge/pytest--cov-Test_Coverage-F7DF1E?logo=pytest&logoColor=black)](https://pypi.org/project/pytest-cov/)
+
+---
+
+### 🌐 Monitoring & Domain Linking  
+[![Sentry](https://img.shields.io/badge/Sentry-Error_Tracking-E03A3E?logo=sentry&logoColor=white)](https://sentry.io/)
+[![UptimeRobot](https://img.shields.io/badge/UptimeRobot-Monitoring-28A745?logo=uptimerobot&logoColor=white)](https://uptimerobot.com/)
+[![Custom Domain](https://img.shields.io/badge/Custom_Domain-Linked-4285F4?logo=google-domains&logoColor=white)](https://domains.google/)
+
+</marquee>
+
 
 ## 📊 GitHub Stats
 
