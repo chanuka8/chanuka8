@@ -23,67 +23,68 @@
 <div align="center">
 
 ### 🐍 Programming & Scripting  
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/chanuka8?q=topic%3Apython)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/chanuka8?q=topic%3Acpp)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/chanuka8?q=topic%3Aphp)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/chanuka8?q=topic%3Atypescript)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/chanuka8?q=topic%3Ajavascript)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/chanuka8?tab=repositories&language=python)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/chanuka8?tab=repositories&language=cpp)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/chanuka8?tab=repositories&language=php)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/chanuka8?tab=repositories&language=typescript)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/chanuka8?tab=repositories&language=javascript)
 
 ---
 
 ### 🌐 Web Technologies  
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/chanuka8?q=topic%3Ahtml)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/chanuka8?q=topic%3Acss)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/chanuka8?q=topic%3Areact)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/chanuka8?q=topic%3Anodejs)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://github.com/chanuka8?q=topic%3Aexpress)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/chanuka8?tab=repositories&language=html)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/chanuka8?tab=repositories&language=css)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/search?q=user%3Achanuka8+react&type=repositories)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/search?q=user%3Achanuka8+node&type=repositories)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://github.com/search?q=user%3Achanuka8+express&type=repositories)
 
 ---
 
 ### 🗄️ Databases  
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/chanuka8?q=topic%3Amysql)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/chanuka8?q=topic%3Amongodb)
-[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/chanuka8?q=topic%3Asqlite)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/search?q=user%3Achanuka8+mysql&type=repositories)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/search?q=user%3Achanuka8+mongodb&type=repositories)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/search?q=user%3Achanuka8+sqlite&type=repositories)
 
 ---
 
 ### 🔒 Cybersecurity & Tools  
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://github.com/chanuka8?q=topic%3Akali-linux)
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://github.com/chanuka8?q=topic%3Awireshark)
-[![Metasploit](https://img.shields.io/badge/Metasploit-2E77BC?style=for-the-badge&logo=metasploit&logoColor=white)](https://github.com/chanuka8?q=topic%3Ametasploit)
-[![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)](https://github.com/chanuka8?q=topic%3Aburp-suite)
-[![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white)](https://github.com/chanuka8?q=topic%3Anmap)
-[![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)](https://github.com/chanuka8?q=topic%3Aowasp)
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://github.com/search?q=user%3Achanuka8+kali+OR+security+OR+cybersecurity&type=repositories)
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://github.com/search?q=user%3Achanuka8+wireshark+OR+network&type=repositories)
+[![Metasploit](https://img.shields.io/badge/Metasploit-2E77BC?style=for-the-badge&logo=metasploit&logoColor=white)](https://github.com/search?q=user%3Achanuka8+metasploit+OR+penetration&type=repositories)
+[![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)](https://github.com/search?q=user%3Achanuka8+burp+OR+web+security&type=repositories)
+[![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white)](https://github.com/search?q=user%3Achanuka8+nmap+OR+scanning&type=repositories)
+[![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)](https://github.com/search?q=user%3Achanuka8+owasp+OR+security&type=repositories)
 
 ---
 
 ### ☁️ Cloud & DevOps  
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/chanuka8?q=topic%3Aaws)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/chanuka8?q=topic%3Adocker)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/chanuka8?q=topic%3Agit)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/chanuka8?q=topic%3Alinux)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/chanuka8?q=topic%3Agithub-actions)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/search?q=user%3Achanuka8+aws+OR+cloud&type=repositories)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/search?q=user%3Achanuka8+docker+OR+container&type=repositories)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/search?q=user%3Achanuka8+git&type=repositories)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/search?q=user%3Achanuka8+linux+OR+ubuntu&type=repositories)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/search?q=user%3Achanuka8+github+actions+OR+ci+cd&type=repositories)
 
 ---
 
 ### 🧠 Development Tools  
-[![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/chanuka8?q=topic%3Avscode)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://github.com/chanuka8?q=topic%3Apostman)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://github.com/chanuka8?q=topic%3Anotion)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/chanuka8?q=topic%3Afigma)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/chanuka8?q=topic%3Avercel)
+[![VS Code](https://img.shields.io/badge/VS_Code-0078D8?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/search?q=user%3Achanuka8+vscode+OR+visual+studio&type=repositories)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://github.com/search?q=user%3Achanuka8+postman+OR+api&type=repositories)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://github.com/search?q=user%3Achanuka8+notion&type=repositories)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/search?q=user%3Achanuka8+figma+OR+design&type=repositories)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/search?q=user%3Achanuka8+vercel+OR+deploy&type=repositories)
 
 ---
 
 ### 📚 Frameworks & Libraries
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/chanuka8?q=topic%3Adjango)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/chanuka8?q=topic%3Aflask)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/chanuka8?q=topic%3Abootstrap)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/chanuka8?q=topic%3Atailwind-css)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/search?q=user%3Achanuka8+django&type=repositories)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/search?q=user%3Achanuka8+flask&type=repositories)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/search?q=user%3Achanuka8+bootstrap&type=repositories)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/search?q=user%3Achanuka8+tailwind&type=repositories)
 
 ---
 
 </div>
+
 
 ## 📊 GitHub Stats
 
