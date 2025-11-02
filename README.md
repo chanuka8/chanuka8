@@ -22,63 +22,63 @@
 <div align="center">
 
 ### 🐍 Programming & Scripting  
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=&type=&language=python)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=&type=&language=c%2B%2B)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=&type=&language=php)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=&type=&language=typescript)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/chanuka8?tab=repositories&q=&type=&language=javascript)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=&type=&language=python "View my Python projects")
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=&type=&language=c%2B%2B "View my C++ projects")
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=&type=&language=php "View my PHP projects")
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=&type=&language=typescript "View my TypeScript projects")
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/chanuka8?tab=repositories&q=&type=&language=javascript "View my JavaScript projects")
 
 ---
 
 ### 🌐 Web Technologies  
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=html&type=)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=css&type=)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/chanuka8?tab=repositories&q=react&type=)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=node&type=)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=express&type=)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=html&type= "View HTML projects")
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=css&type= "View CSS projects")
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/chanuka8?tab=repositories&q=react&type= "View React projects")
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=node&type= "View Node.js projects")
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=express&type= "View Express.js projects")
 
 ---
 
 ### 🗄️ Databases  
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=mysql&type=)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=mongodb&type=)
-[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=sqlite&type=)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=mysql&type= "View MySQL database projects")
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=mongodb&type= "View MongoDB projects")
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=sqlite&type= "View SQLite projects")
 
 ---
 
 ### 🔒 Cybersecurity & Tools  
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=kali+linux+security&type=)
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=wireshark+network&type=)
-[![Metasploit](https://img.shields.io/badge/Metasploit-2E77BC?style=for-the-badge&logo=metasploit&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=metasploit+pentest&type=)
-[![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=burp+suite+web&type=)
-[![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=nmap+scanning&type=)
-[![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=owasp+security&type=)
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=kali+linux+security&type= "View Kali Linux security projects")
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=wireshark+network&type= "View network analysis projects")
+[![Metasploit](https://img.shields.io/badge/Metasploit-2E77BC?style=for-the-badge&logo=metasploit&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=metasploit+pentest&type= "View penetration testing projects")
+[![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=burp+suite+web&type= "View web security testing projects")
+[![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=nmap+scanning&type= "View network scanning projects")
+[![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=owasp+security&type= "View OWASP security projects")
 
 ---
 
 ### ☁️ Cloud & DevOps  
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=aws+cloud&type=)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=docker+container&type=)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=git+version&type=)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/chanuka8?tab=repositories&q=linux+ubuntu&type=)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=github+actions&type=)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=aws+cloud&type= "View AWS cloud projects")
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=docker+container&type= "View Docker container projects")
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=git+version&type= "View version control projects")
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/chanuka8?tab=repositories&q=linux+ubuntu&type= "View Linux/Ubuntu projects")
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=github+actions&type= "View CI/CD projects")
 
 ---
 
 ### 🧠 Development Tools  
-[![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=vscode&type=)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=postman+api&type=)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=notion&type=)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=figma+design&type=)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=vercel+deploy&type=)
+[![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=vscode&type= "View VS Code projects")
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=postman+api&type= "View API testing projects")
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=notion&type= "View documentation projects")
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=figma+design&type= "View design/UI projects")
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=vercel+deploy&type= "View deployed projects")
 
 ---
 
 ### 📚 Frameworks & Libraries
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=django&type=)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=flask&type=)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=bootstrap&type=)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=tailwind&type=)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=django&type= "View Django web projects")
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=flask&type= "View Flask microframework projects")
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=bootstrap&type= "View Bootstrap CSS projects")
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/chanuka8?tab=repositories&q=tailwind&type= "View Tailwind CSS projects")
 
 ---
 
