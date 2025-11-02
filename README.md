@@ -20,13 +20,16 @@
 
 <div align="center">
 
-[![ISC2 CC](https://img.shields.io/badge/ISC²-Certified_in_Cybersecurity-FF6B00?style=for-the-badge&logo=securityscorecard&logoColor=white)](https://isc2.obrizum.io/org/cc/certificate)
-[![CEH](https://img.shields.io/badge/EC-Council-Certified_Ethical_Hacker-FF6B6B?style=for-the-badge&logo=windowsterminal&logoColor=white)](https://www.linkedin.com/in/chanukasandun/details/certifications/)
-[![CHFI](https://img.shields.io/badge/EC-Council-Computer_Forensics-4ECDC4?style=for-the-badge&logo=prescription&logoColor=white)](https://www.linkedin.com/in/chanukasandun/details/certifications/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_1%25-FF6B6B?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/chanuka8)
-[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-4D4DFF?style=for-the-badge&logo=compTIA&logoColor=white)](https://www.linkedin.com/in/chanukasandun/details/certifications/)
+### 🏆 Dynamic Badges
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/chanu00.png)](https://tryhackme.com/p/chanuka8)
+
+### 📜 Professional Certifications
+[![ISC2 CC](https://img.shields.io/badge/ISC2-CC_Certified-FF6B00?style=for-the-badge&logo=isc2&logoColor=white)](https://isc2.obrizum.io/org/cc/certificate)
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B_SY0-601-4D4DFF?style=for-the-badge&logo=compTIA&logoColor=white)](https://www.credly.com/users/chanuka-sandun/badges)
+[![Cisco](https://img.shields.io/badge/Cisco-CCNA_CyberOps-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/users/chanuka-sandun/badges)
 
 </div>
+
 
 ## 🛠️ Tech Stack
 
