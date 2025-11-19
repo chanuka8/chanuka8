@@ -112,7 +112,7 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=chanuka8&color=blueviolet&style=for-the-badge)
-![Unique Visitors](https://visitor-badge.laobi.icu/badge?page_id=chanuka8&style=for-the-badge&left_color=green&right_color=blue)
+![Profile Views](https://img.shields.io/badge/Profile_Views-Active-blueviolet?style=for-the-badge&logo=github)
+![Visitors](https://img.shields.io/badge/Visitors-Tracking-green?style=for-the-badge&logo=github)
 
 </div>
