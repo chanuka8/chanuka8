@@ -77,7 +77,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=chanuka8&show_icons=true&theme=radical" alt="GitHub Stats" />
+      <!-- GitHub Stats removed as requested -->
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanuka8&layout=compact&theme=radical" alt="Top Languages" />
