@@ -77,10 +77,10 @@
 <table>
   <tr>
     <td>
-      <!-- GitHub Stats removed as requested -->
+      <img src="https://github-readme-stats.vercel.app/api?username=chanuka8&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanuka8&layout=compact&theme=radical" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanuka8&layout=compact&theme=radical&hide=html,css" alt="Top Languages" />
     </td>
   </tr>
   <tr>
