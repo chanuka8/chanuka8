@@ -76,10 +76,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanuka8&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=chanuka8&theme=radical" alt="GitHub Streak" />
-
 </div>
 
 ## 📫 Connect With Me
