@@ -74,7 +74,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=chanuka8&layout=compact&theme=radical&hide=html,css,jupyter%20notebook&hide_border=true" alt="Top Languages" />
+### 💻 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chanuka8&layout=compact&theme=radical&hide_border=true)
+
+### 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chanuka8&theme=radical&hide_border=true)
+
+### 📈 Recent Activity
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chanuka8&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
