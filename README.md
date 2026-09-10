@@ -3,7 +3,7 @@
 <h2>👋 Hey World!</h2>
 <h1>I'm <strong>Chanuka Sandun Uswaththa</strong></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=🔐+Cybersecurity+Enthusiast;🛡️+Ethical+Hacker;🌐+Open+Source+Contributor;🚀+Lifelong+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=🔐+Cybersecurity+Enthusiast;🛡️+Ethical+Hacker;🌐+Open+Source+Contributor;🚀+Lifelong+Learner)](https://git.io/typing-svg)
 
 </div>
 
@@ -78,10 +78,10 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chanuka8&layout=compact&theme=radical&hide_border=true)
 
 ### 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chanuka8&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=chanuka8&theme=radical&hide_border=true)
 
 ### 📈 Recent Activity
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chanuka8&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![chanuka8's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chanuka8&theme=github-compact)](https://github.com/chanuka8)
 
 </div>
 
