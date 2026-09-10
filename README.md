@@ -81,7 +81,7 @@
 ![GitHub Streak](./profile/streak.svg)
 
 ### 📈 Recent Activity
-[![chanuka8's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chanuka8&theme=github-compact)](https://github.com/chanuka8)
+[![chanuka8's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chanuka8&theme=github-compact&v=2)](https://github.com/chanuka8)
 
 </div>
 
